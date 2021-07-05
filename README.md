@@ -13,10 +13,10 @@
 | Sticker |✅|
 
 ## GITHUB TEAM
-[Fax](https://github.com/Faxbotz)
-[ZennDec](http://github.com/pahri77)
-[Ardy](https://github.com/ArdyBotzz)
-[Dinata](https://github.com/Dinataaa)
+* [Fax](https://github.com/Faxbotz)
+* [ZennDec](http://github.com/pahri77)
+* [Ardy](https://github.com/ArdyBotzz)
+* [Dinata](https://github.com/Dinataaa)
 
 
 
