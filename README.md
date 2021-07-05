@@ -19,6 +19,11 @@
 * [Dinata](https://github.com/Dinataaa)
 
 
+## DONASI
+* [Ardy](https://saweria.co/ArdyStore)
+* [Dinata](https://saweria.co/dinatabot)
+* [Fax](https://saweria.co/FARDANWINX)
+
 
 
 
