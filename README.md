@@ -1,4 +1,5 @@
-## Fakereply
+| Cuma 11 |✅|
+| ------------- | ------------- |
 | Product |✅|
 | Troli |✅|
 | Location |✅|
