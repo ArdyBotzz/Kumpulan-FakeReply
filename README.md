@@ -8,9 +8,9 @@
 |6.Gclink ✅|
 |7.Kontak ✅|
 |8.Gif ✅|
-9.TextThumbnail ✅|
-10.VN ✅|
-11.Sticker ✅|
+|9.TextThumbnail ✅|
+|10.VN ✅|
+|11.Sticker ✅|
 ```
 
 Jan Di Curi Asu
